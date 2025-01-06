@@ -15,7 +15,7 @@ I'm a passionate developer with a keen interest in full-stack development and cl
 - Improving skills in BackEnd practices.
 
 ### 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:davehcanache@gmail.com)
+- Email: [davehcanache@gmail.com](mailto:davehcanache@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/dave-canache-70977723b)
 
 ### ⚡ Fun Facts
