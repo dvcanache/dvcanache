@@ -1,33 +1,25 @@
-# Hi there, I'm dvcanache 👋
 
-### About Me
+# 💫 About Me:
+🔭 I’m currently working on DevOps pipelines and web/CLI development.  
+👯 I’m looking to collaborate on open-source projects.  
+🌱 I’m currently learning advanced Golang and systems programming.  
+💬 Ask me about DevOps, web dev, CLI tools, or Golang.  
+⚡ Fun fact: I love exploring low-level languages for high-performance code.  
 
-I'm a passionate developer with a keen interest in full-stack development and cloud technologies. With a background in software engineering, I enjoy building scalable and efficient applications.
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=go,c,typescript,javascript,html,css,react,nextjs,tailwind,docker,neovim,linux,apple,arch,bash,githubactions,git,github,figma&)](https://skillicons.dev)
 
-### 🔭 Current Projects
-- **[EverestGym](https://github.com/dvcanache/EverestGym)**
-- **[Multimax](https://github.com/dvcanache/MultiMax)**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dvcanache2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=dvcanache2&theme=onedark&hide_border=true)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcanache2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
-### 🌱 Learning
-- Exploring advanced concepts in Web Development.
-- Improving skills in BackEnd practices.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dvcanache2&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)  
 
-### 📫 How to Reach Me
-- Email: [davehcanache@gmail.com](mailto:davehcanache@gmail.com)
-- LinkedIn: [www.linkedin.com/in/dave-canache-70977723b](www.linkedin.com/in/dave-canache-70977723b)
-
-### ⚡ Fun Facts
-- I love open-source contributions and collaborating with other developers.
+---
+[![](https://visitcount.itsvg.in/api?id=dvcanache2&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 
 ### 🏆 GitHub Trophies
-
-![dvcanache's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dvcanache&theme=onedark)
-
-### 🔗 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcanache&layout=compact&theme=radical)
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just want to say hi! 😊
+![](https://github-profile-trophy.vercel.app/?username=dvcanache2&theme=onedark&hide_border=true)
