@@ -7,7 +7,7 @@
 ⚡ Fun fact: I love exploring low-level languages for high-performance code.  
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=go,sql,ubuntu,typescript,javascript,html,css,react,nextjs,tailwind,docker,neovim,linux,arch,bash,git,github,figma&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,wordpress,ubuntu,typescript,javascript,html,css,react,nextjs,tailwind,docker,neovim,linux,arch,bash,git,github,figma&)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dvcanache&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
