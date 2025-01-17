@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-🔭 I’m currently working on DevOps pipelines and web/CLI development.  
+🔭 I’m currently working on web/CLI development.  
 👯 I’m looking to collaborate on open-source projects.  
 🌱 I’m currently learning advanced Golang and systems programming.  
-💬 Ask me about DevOps, web dev, CLI tools, or Golang.  
+💬 Ask me about web dev, CLI tools, or Golang.  
 ⚡ Fun fact: I love exploring low-level languages for high-performance code.  
 
 # 💻 Tech Stack:
