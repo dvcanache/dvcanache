@@ -10,16 +10,16 @@
 [![My Skills](https://skillicons.dev/icons?i=go,typescript,javascript,html,css,react,nextjs,tailwind,docker,neovim,linux,arch,bash,git,github,figma&)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dvcanache2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=dvcanache2&theme=onedark&hide_border=true)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcanache2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=dvcanache&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=dvcanache&theme=onedark&hide_border=true)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcanache&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dvcanache2&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)  
+![](https://github-contributor-stats.vercel.app/api?username=dvcanache&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dvcanache2&icon=0&color=0)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=dvcanache&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dvcanache2&theme=onedark&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=dvcanache&theme=onedark&hide_border=true)
