@@ -1,13 +1,17 @@
 
 # 💫 About Me:
-🔭 I’m currently working on web/CLI development.  
-👯 I’m looking to collaborate on open-source projects.  
-🌱 I’m currently learning advanced Golang and systems programming.  
-💬 Ask me about web dev, CLI tools, or Golang.  
-⚡ Fun fact: I love exploring low-level languages for high-performance code.  
+🔭 I’m currently focused on **Software development** and building high-performance systems.  
+👯 I’m looking to collaborate on **Open-Source projects** and advanced backend architectures.  
+🌱 I’m currently deepening my knowledge in **Advanced Golang, Rust, and Cybersecurity**.  
+💬 Ask me about **Software development**, or **Cloud Infrastructure (AWS/K8s)**.  
+⚡ Fun fact: I have a passion for low-level languages and optimizing code for peak performance.  
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=go,wordpress,ubuntu,typescript,javascript,html,css,react,nextjs,tailwind,docker,neovim,linux,arch,bash,git,github,figma&)](https://skillicons.dev)
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,spring,python,go,laravel,nodejs,nestjs,vue,react,ts,js,wp,django,flutter,dart&perline=10)](https://skillicons.dev)
+
+### Infrastructure, Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,docker,kubernetes,aws,kafka,git,github,figma,nextjs,tailwind,neovim&perline=10)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dvcanache&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
@@ -19,7 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dvcanache&icon=0&color=0)](https://visitcount.itsvg.in)  
-
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvcanache&theme=onedark&hide_border=true)
