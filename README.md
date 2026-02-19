@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,spring,python,go,laravel,nodejs,nestjs,vue,react,ts,js,wp,django,flutter,dart&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,spring,python,go,laravel,nodejs,nestjs,vue,react,ts,js,django,flutter,dart&perline=10)](https://skillicons.dev)
 
 ### Infrastructure, Tools & DevOps
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,docker,kubernetes,aws,kafka,git,github,figma,nextjs,tailwind,neovim&perline=10)](https://skillicons.dev)
